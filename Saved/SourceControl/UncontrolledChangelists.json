@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/zach/Documents/Unreal Projects/PROJECT-BLACK-MOON-MK1/Project_Black_Moon/Content/FOUNDATIONAL-SCRIPTS/PBM-INSTANCE.uasset",
+				"C:/Users/zach/Documents/Unreal Projects/PROJECT-BLACK-MOON-MK1/Project_Black_Moon/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/zach/Documents/Unreal Projects/PROJECT-BLACK-MOON-MK1/Project_Black_Moon/Content/UI/HUD/PLAYER_HUD.uasset",
+				"C:/Users/zach/Documents/Unreal Projects/PROJECT-BLACK-MOON-MK1/Project_Black_Moon/Content/FirstPerson/Maps/FirstPersonMap.umap",
 				"C:/Users/joshm/Documents/Unreal Projects/MyProject/Content/Animations/FP_Stow.uasset",
 				"C:/Users/joshm/Documents/Unreal Projects/MyProject/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
 				"C:/Users/joshm/Documents/Unreal Projects/MyProject/Content/Animations/FP_Equip.uasset",
